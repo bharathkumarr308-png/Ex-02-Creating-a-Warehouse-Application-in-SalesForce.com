@@ -1,4 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+NAME :DHINESH S
+REG NO:212224220025
 
 ## AIM:
 To create a warehouse application in salesforce.com
